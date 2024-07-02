@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\jatek_datumokkal\jatek_datumokkal\bin\Debug\jatek_datumokkal.exe.config
+C:\Users\user\Desktop\jatek_datumokkal\jatek_datumokkal\bin\Debug\jatek_datumokkal.exe
+C:\Users\user\Desktop\jatek_datumokkal\jatek_datumokkal\bin\Debug\jatek_datumokkal.pdb
+C:\Users\user\Desktop\jatek_datumokkal\jatek_datumokkal\obj\Debug\jatek_datumokkal.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\jatek_datumokkal\jatek_datumokkal\obj\Debug\jatek_datumokkal.Form1.resources
+C:\Users\user\Desktop\jatek_datumokkal\jatek_datumokkal\obj\Debug\jatek_datumokkal.Properties.Resources.resources
+C:\Users\user\Desktop\jatek_datumokkal\jatek_datumokkal\obj\Debug\jatek_datumokkal.csproj.GenerateResource.cache
+C:\Users\user\Desktop\jatek_datumokkal\jatek_datumokkal\obj\Debug\jatek_datumokkal.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\jatek_datumokkal\jatek_datumokkal\obj\Debug\jatek_datumokkal.exe
+C:\Users\user\Desktop\jatek_datumokkal\jatek_datumokkal\obj\Debug\jatek_datumokkal.pdb
