@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\jatek_datumokkal_raadas\jatek_datumokkal_raadas\bin\Debug\jatek_datumokkal_raadas.exe.config
+C:\Users\user\Desktop\jatek_datumokkal_raadas\jatek_datumokkal_raadas\bin\Debug\jatek_datumokkal_raadas.exe
+C:\Users\user\Desktop\jatek_datumokkal_raadas\jatek_datumokkal_raadas\bin\Debug\jatek_datumokkal_raadas.pdb
+C:\Users\user\Desktop\jatek_datumokkal_raadas\jatek_datumokkal_raadas\obj\Debug\jatek_datumokkal_raadas.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\jatek_datumokkal_raadas\jatek_datumokkal_raadas\obj\Debug\jatek_datumokkal_raadas.Form1.resources
+C:\Users\user\Desktop\jatek_datumokkal_raadas\jatek_datumokkal_raadas\obj\Debug\jatek_datumokkal_raadas.Properties.Resources.resources
+C:\Users\user\Desktop\jatek_datumokkal_raadas\jatek_datumokkal_raadas\obj\Debug\jatek_datumokkal_raadas.csproj.GenerateResource.cache
+C:\Users\user\Desktop\jatek_datumokkal_raadas\jatek_datumokkal_raadas\obj\Debug\jatek_datumokkal_raadas.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\jatek_datumokkal_raadas\jatek_datumokkal_raadas\obj\Debug\jatek_datumokkal_raadas.exe
+C:\Users\user\Desktop\jatek_datumokkal_raadas\jatek_datumokkal_raadas\obj\Debug\jatek_datumokkal_raadas.pdb
