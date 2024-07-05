@@ -1,0 +1,6 @@
+Vegetarianus;890;1290
+Magyaros;950;1410
+Szennai tűzes;990;1560
+Hawai;850; 1350
+Kolbászos;1000;1600;
+Margarita;800;1100
