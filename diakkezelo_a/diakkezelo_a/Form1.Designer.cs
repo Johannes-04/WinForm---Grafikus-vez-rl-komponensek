@@ -46,6 +46,7 @@
             // 
             // pnlDiakok
             // 
+            this.pnlDiakok.AutoScroll = true;
             this.pnlDiakok.BackColor = System.Drawing.Color.Bisque;
             this.pnlDiakok.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.pnlDiakok.Location = new System.Drawing.Point(25, 63);
@@ -126,7 +127,7 @@
             // lblDiak
             // 
             this.lblDiak.AutoSize = true;
-            this.lblDiak.Location = new System.Drawing.Point(336, 361);
+            this.lblDiak.Location = new System.Drawing.Point(290, 361);
             this.lblDiak.Name = "lblDiak";
             this.lblDiak.Size = new System.Drawing.Size(35, 13);
             this.lblDiak.TabIndex = 8;
