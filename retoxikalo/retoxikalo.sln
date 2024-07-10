@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "retoxikalo", "retoxikalo\retoxikalo.csproj", "{E7214CE7-256F-4DC6-B9E8-24362070E800}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7214CE7-256F-4DC6-B9E8-24362070E800}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7214CE7-256F-4DC6-B9E8-24362070E800}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7214CE7-256F-4DC6-B9E8-24362070E800}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7214CE7-256F-4DC6-B9E8-24362070E800}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3ED25D79-4F09-4B5C-9F4A-FD4D3DDDDF6D}
+	EndGlobalSection
+EndGlobal
